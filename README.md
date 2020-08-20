@@ -1,2 +1,2 @@
 # lazyscript
-Initial build will immprove after some versions
+Initial build will improve after some versions
